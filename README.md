@@ -186,7 +186,7 @@ Designed and simulated a single-stage common-emitter BJT amplifier in LTspice us
 
 ## 📫 Connect With Me
 
-- Email: **moazkhaled1970@gmail.com**
+- Email: **moaz.khaled.ece@gmail.com**
 - LinkedIn: **www.linkedin.com/in/moaz-khaledi**
 - GitHub: **https://github.com/Moazkhaled-eng**
 
