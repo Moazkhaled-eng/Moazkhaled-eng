@@ -176,7 +176,7 @@ Designed and simulated a single-stage common-emitter BJT amplifier in LTspice us
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+> Replace Moazkhaled-eng with your actual GitHub username.
 
 ![Moaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
